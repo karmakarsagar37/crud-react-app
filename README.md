@@ -1,5 +1,4 @@
-Deployed Link:
-https://user-management2812.herokuapp.com/
+
 
 # Getting Started with Create React App
 
